@@ -1,0 +1,11 @@
+{
+  "id": "ModMatch",
+  "name": "Mod Match",
+  "author": "mcb68945",
+  "description": "Shows which of your mods co-op friends need to match, lets you copy your list and compare it with a friend's before joining, and explains Mod mismatch errors.",
+  "version": "0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
